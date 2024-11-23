@@ -7,7 +7,7 @@ Este projeto foi desenvolvido durante o Hackathon com o objetivo de resolver o p
 
 ## Problema
 
-- A esterilização de equipamentos médicos é uma etapa crítica no controle de infecções hospitalares. No entanto, muitos hospitais enfrentam desafios relacionados à gestão do fluxo de trabalho, como:
+ A esterilização de equipamentos médicos é uma etapa crítica no controle de infecções hospitalares. No entanto, muitos hospitais enfrentam desafios relacionados à gestão do fluxo de trabalho, como:
 
 - Tempo de espera elevado para a esterilização de equipamentos, o que pode afetar a disponibilidade dos mesmos para novas cirurgias.
 
