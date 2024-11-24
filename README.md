@@ -31,7 +31,6 @@ Neste projeto, utilizamos as seguintes tecnologias:
 - CSS: Estilização da interface e design responsivo.
 - Python: Para o desenvolvimento do back-end, automação de processos, ou qualquer outra aplicação relacionada.
 - JavaScript: (Se aplicável) Para funcionalidades interativas no front-end.
-- React (ou qualquer outro framework/libraria que você esteja utilizando): Para a criação de interfaces dinâmicas e componentes reutilizáveis.
 - Node.js: (Se for back-end) Para rodar o servidor ou automação de tarefas.
 - Git: Controle de versão e colaboração no desenvolvimento do projeto.
 - Figma (ou outra ferramenta de design): Para protótipos de design e UI/UX.
