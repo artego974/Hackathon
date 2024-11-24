@@ -35,6 +35,20 @@ Neste projeto, utilizamos as seguintes tecnologias:
 - Git: Controle de versão e colaboração no desenvolvimento do projeto.
 - Figma (ou outra ferramenta de design): Para protótipos de design e UI/UX.
 
+![image](https://github.com/user-attachments/assets/3edfa86f-0160-463d-899a-4b3f6b764b02)
+![image](https://github.com/user-attachments/assets/fb2a81ac-f640-4447-9dda-cbf2e4bf4592)
+![image](https://github.com/user-attachments/assets/1211edc7-62b8-4d5a-8b8a-b08fb3dc10de)
+![image](https://github.com/user-attachments/assets/09453cf1-01da-498e-921e-2ece1f118b85)
+
+
+
+
+
+
+
+
+
+
   
 
 
