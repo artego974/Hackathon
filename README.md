@@ -19,7 +19,25 @@ Este projeto foi desenvolvido durante o Hackathon com o objetivo de resolver o p
 
   A autoclave, embora fundamental no processo de esterilização, pode ser subutilizada ou mal gerida devido a esses desafios, comprometendo a eficiência e a segurança do ambiente hospitalar.
 
-  ## Solução
+## Solução
+
+  Implementar um sistema de monitoramento e controle de materiais durante a montagem das caixas de bloco cirúrgico e esterilização do material cirúrgico, utilizando câmeras e pesagem.
+
+
+## Tecnologias Usadas
+Neste projeto, utilizamos as seguintes tecnologias:
+
+- HTML: Estruturação do conteúdo da web.
+- CSS: Estilização da interface e design responsivo.
+- Python: Para o desenvolvimento do back-end, automação de processos, ou qualquer outra aplicação relacionada.
+- JavaScript: (Se aplicável) Para funcionalidades interativas no front-end.
+- React (ou qualquer outro framework/libraria que você esteja utilizando): Para a criação de interfaces dinâmicas e componentes reutilizáveis.
+- Node.js: (Se for back-end) Para rodar o servidor ou automação de tarefas.
+- Git: Controle de versão e colaboração no desenvolvimento do projeto.
+- Figma (ou outra ferramenta de design): Para protótipos de design e UI/UX.
+
+  
+
 
   
 
